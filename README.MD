@@ -6,7 +6,7 @@
 <blockquote align="center">“No jogo o numero será sorteado automaticamente e voce tera 3 chances para acertar”</blockquote>
 
 <p align="center">
-<img width="100%" src="img/Inicio.PNG">
+<img width="100%" src="img/inicio.PNG">
 </p>
 
 ## :rocket: Tecnologias:
